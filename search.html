@@ -1,0 +1,31 @@
+---
+title: Search
+description: "Search this site"
+layout: page
+permalink: /search/
+tipue_search_active: true
+exclude_from_search: true
+---
+
+<form action="{{ page.url | relative_url }}">
+  <div class="tipue_search_left"><img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon"></div>
+  <div class="tipue_search_right"><input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required></div>
+  <div style="clear: both;"></div>
+</form>
+
+<div id="tipue_search_content"></div>
+
+<!--minimumLength1:검색글자 하나이상
+wholeWords:한글검색가능(false조건을주면)
+showTime:검색이 완료되기까지 시간을 끄자-->
+<script>
+$(document).ready(function() {
+  $('#tipue_search_input').tipuesearch({
+    'wholeWords' : false,
+    'showTime'   : false, 
+    'minimumLength' : 1
+  });
+});
+</script>
+
+
