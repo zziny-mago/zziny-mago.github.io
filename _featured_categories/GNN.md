@@ -1,11 +1,10 @@
 ---
 layout: list
 title: GNN
-slug: gnn
+slug: GNN
 menu: true
 submenu: true
 order: 3
 description: >
-  GNN에대한 내용입니다.
+  기타 공부
 ---
-
