@@ -1,10 +1,10 @@
 ---
 layout: list
-title: GNN
-slug: GNN
+title: Graph theory
+slug: Graph theory
 menu: true
 submenu: true
 order: 3
 description: >
-  Graph neural network
+  Spectral Graph
 ---

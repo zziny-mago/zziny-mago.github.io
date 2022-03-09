@@ -42,7 +42,7 @@ font-weight:bold">
 
 * Machine Learning / Deep Learning
     + GNN
-    + Spatial temporal gnn
+    + Spectral graph
 
 ## Skills 
 ---
