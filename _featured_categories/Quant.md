@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Quant
-slug: Quant
+title: quant
+slug: quant
 menu: true
 submenu: true
 order: 7
 description: >
-  강화학습을 통한 퀀트투자
+  강화학습과 함께하는 퀀트투자
 ---
