@@ -6,5 +6,5 @@ menu: true
 submenu: true
 order: 4
 description: >
-  Spectral Graph
+그래프 이론
 ---
