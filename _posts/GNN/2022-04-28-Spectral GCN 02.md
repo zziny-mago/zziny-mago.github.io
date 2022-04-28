@@ -3,7 +3,7 @@ layout: post
 title:  "Graph Laplacian"
 subtitle:   "Repository에 올리기"
 categories: GNN
-tags: Spectral
+tags: Spectral GCN
 comments: true
 ---
 ## Laplacian matrix
