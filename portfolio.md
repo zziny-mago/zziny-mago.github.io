@@ -42,7 +42,8 @@ font-weight:bold">
 
 * Machine Learning / Deep Learning
     + GNN
-    + Spectral graph
+    + Graph Isomorphism
+    + Subgraph Matching
 
 ## Skills 
 ---
