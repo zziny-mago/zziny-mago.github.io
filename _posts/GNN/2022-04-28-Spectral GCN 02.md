@@ -9,13 +9,13 @@ comments: true
 ## Laplacian matrix
 ---
 <p align=center>
-<image src="https://wikimedia.org/api/rest_v1/media/math/render/svg/712994d22cc3a9e0bd6148764a17c1628f843062
-" >
+    <image src="https://wikimedia.org/api/rest_v1/media/math/render/svg/712994d22cc3a9e0bd6148764a17c1628f843062
+    " >
 </p>
 
 <p align=center>
-<image src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cb1fbbbf7819fa84d4f0b1cad18620b08f0c2e9
-" >
+    <image src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cb1fbbbf7819fa84d4f0b1cad18620b08f0c2e9
+    " >
 </p>
 
 + D는 degree matrix로 노드들의 edge가 대각선 성분으로 표시되어있다.
@@ -24,8 +24,8 @@ comments: true
 
 
 <p align=center>
-<image src="https://user-images.githubusercontent.com/70193130/165730840-cba98d91-b412-4f64-839a-420b96f7fb08.png
-" >
+    <image src="https://user-images.githubusercontent.com/70193130/165730840-cba98d91-b412-4f64-839a-420b96f7fb08.png
+    " >
 </p>
 
 + 위에 그림은 ID를 가지고있는 노드를 바탕으로 순서를 고려한 예제이다.
@@ -36,7 +36,7 @@ Laplacian Operator는 벡터의 발산정도를 의미하며 벡터장이 얼마
 그래프에서 이러한 변화를 알수있는 연산자 역할을 하는것이 라플라시안 행렬이다. 
 
 <p align=center>
-<image src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbhqGQI%2Fbtrti4ajdu1%2FqNzQnq1rdkp8DY7rSvKKwK%2Fimg.png" >
+    <image src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbhqGQI%2Fbtrti4ajdu1%2FqNzQnq1rdkp8DY7rSvKKwK%2Fimg.png" >
 </p>
  
  + x는 노드들의 feature or 시그널이다.
@@ -47,7 +47,7 @@ Laplacian Operator는 벡터의 발산정도를 의미하며 벡터장이 얼마
  ---
 1. Positive semi-definite 행렬이므로 non-negative eigenvalue를 가진다.
 <p align=center>
-<image src="https://user-images.githubusercontent.com/70193130/165746560-ecc19f3b-c11d-4321-97e3-0eef929653c1.png">
+    <image src="https://user-images.githubusercontent.com/70193130/165746560-ecc19f3b-c11d-4321-97e3-0eef929653c1.png">
 </p>
 
 2. real symmetric 행렬이므로 eigenvector들은 직교기저벡터를 이룬다.
@@ -59,8 +59,8 @@ Laplacian Operator는 벡터의 발산정도를 의미하며 벡터장이 얼마
 
 
 <p align=center>
-<image src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6c30b21a510c3e9678bd5b7a4bf172e8fc8aaeff
-">
+    <image src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6c30b21a510c3e9678bd5b7a4bf172e8fc8aaeff
+    ">
 </p>
 
 
