@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Spectral GCN
-slug: Spectral GCN
+title: GCN
+slug: GCN
 category: GNN
 menu: false
 order: 3
