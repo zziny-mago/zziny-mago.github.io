@@ -4,7 +4,7 @@ title: etc
 slug: etc
 menu: true
 submenu: true
-order: 8
+order: 7
 description: >
   etc
 ---

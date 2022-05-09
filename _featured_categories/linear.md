@@ -4,7 +4,7 @@ title: linear
 slug: linear
 menu: true
 submenu: true
-order: 6
+order: 5
 description: >
   선형대수
 ---
