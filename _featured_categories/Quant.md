@@ -4,7 +4,7 @@ title: quant
 slug: quant
 menu: true
 submenu: true
-order: 4
+order: 5
 description: >
   강화학습과 함께하는 퀀트투자
 ---
