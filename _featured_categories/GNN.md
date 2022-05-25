@@ -4,7 +4,7 @@ title: GNN
 slug: GNN
 menu: true
 submenu: true
-order: 2
+order: 
 description: >
   Graph neural network
 ---
