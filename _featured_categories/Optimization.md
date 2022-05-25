@@ -4,7 +4,7 @@ title: Optimization
 slug: Optimization
 menu: true
 submenu: true
-order: 4
+order: 
 description: >
 최적화 기법
 ---
