@@ -7,4 +7,6 @@ submenu: true
 order: 
 description: >
   Graph neural network
+  Paper review
+  CS224W
 ---
