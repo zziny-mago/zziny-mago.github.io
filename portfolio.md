@@ -22,7 +22,7 @@ font-weight:bold">
 
 ## Personal Data
 ---
-> 1999.09.22 대한민국,충청남도,동남구 출생
+> 1999.09.22 
 
 > 연락처: cheongsu030536@gmail.com
 
