@@ -2,7 +2,7 @@
 layout: about
 title: Portfolio
 menu: true
-order: 
+order: 1
 ---
 
 * * *
