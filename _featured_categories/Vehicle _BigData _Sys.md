@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Vehicle Big Data System
-slug: Vehicle Big Data System
+title: Vehicle _BigData _Sys
+slug: Vehicle _BigData _Sys
 menu: true
 submenu: true
 order: 8
