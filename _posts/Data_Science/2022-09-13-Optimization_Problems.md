@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1. Introduction, Optimization Problems"
+title:  "Optimization Problems"
 subtitle:   "Repository에 올리기"
 categories: Data_Science
 tags: Optimization
