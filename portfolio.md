@@ -41,17 +41,18 @@ font-weight:bold">
 ## Research Interest
 ---
 
-* Machine Learning / Deep Learning
+* Object Detection / Machine Learning / Deep Learning
     + GNN
-    + Graph Isomorphism
-    + Point Cloud
     + Subgraph Network
+    + Self-supervised Learning
+    + Point Cloud
+    
 
 ## Skills 
 ---
--Language : Python, Java
+-Language : Python, Matlab
 
--FrameWork: Pytorch
+-FrameWork: Pytorch, Tensorflow
 
 
 
