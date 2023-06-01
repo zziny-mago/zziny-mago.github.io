@@ -38,14 +38,21 @@ font-weight:bold">
 > (2022/09 ~ ing)  국민대학교 지능형차량 신호처리 연구실 석사 재학
 
 
-## Research Interest
----
+## Self-Driving Car Engineer
 
-* Object Detection / Machine Learning / Deep Learning
-    + GNN
-    + Subgraph Network
-    + Self-supervised Learning
-    + Point Cloud
+---
++ LIDAR Perception
++ SensorFusion
++ Contorl
+
+## Research Interest
+
+---
++ GNN(Graph Neural Network)
++ Lidar Point Cloud
++ Point Sampling
++ Object Detection
+
     
 
 ## Skills 
