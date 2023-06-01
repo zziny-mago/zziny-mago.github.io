@@ -3,7 +3,7 @@ layout: list
 title: linear
 slug: linear
 menu: true
-submenu: true
+submenu: false
 order: 3
 description: >
   선형대수
