@@ -4,7 +4,7 @@ title: PS
 slug: PS
 menu: true
 submenu: false
-order: 5
+order: 4
 description: >
   알고리즘 공부
 ---

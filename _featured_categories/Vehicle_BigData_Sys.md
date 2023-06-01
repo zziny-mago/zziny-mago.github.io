@@ -4,7 +4,7 @@ title: Data_Science
 slug: Data_Science
 menu: true
 submenu: false
-order: 8
+order: 6
 description: >
 ---
 

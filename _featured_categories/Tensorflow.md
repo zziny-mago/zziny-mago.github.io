@@ -4,7 +4,7 @@ title: Tensorflow
 slug: Tensorflow
 menu: true
 submenu: false
-order: 9
+order: 5
 description: >
 Tensorflow2
 ---
