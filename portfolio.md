@@ -43,7 +43,7 @@ font-weight:bold">
 ---
 + LIDAR Perception
 + SensorFusion
-+ Contorl
++ Control
 
 ## Research Interest
 
