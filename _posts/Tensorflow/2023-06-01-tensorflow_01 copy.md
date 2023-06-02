@@ -6,7 +6,14 @@ categories: Tensorflow
 tags: Tensorflow
 comments: true
 ---
+    
 
+
+
+
+
+
+    
 ---
 ~~~
     t1=tf.Variable([1,2,3])
