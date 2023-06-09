@@ -1,6 +1,6 @@
 ---
 layout: list
-title: linear
+title: Linear Algebra
 slug: linear
 menu: true
 submenu: false
