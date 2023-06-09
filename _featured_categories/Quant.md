@@ -1,6 +1,6 @@
 ---
 layout: list
-title: quant
+title: Quant with Reinforcement learning
 slug: quant
 menu: true
 submenu: false
