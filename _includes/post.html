@@ -1,9 +1,9 @@
 {% assign post = include.post %}
 
-<article id="post-{{ post.id | slice: 1,9999 }}" class="post{% if include.link_title %} mb6{% endif %}" role="article">
+<article id="post-{{ post.id | slice: 1,9999 }}" class="post{% if include.link_title %} mb6{% endif %}" role="article" style="margin-bottom: 1rem;">
   <header>
 
-    <h1 class="post-title">
+    <h1 class="post-title" style="font:100 26px/1.7 Roboto, sans-serif;">
       {% if include.link_title %}<a href="{{ post.url | relative_url }}" data-flip="title">{% endif %}
         {{ post.title }}
       {% if include.link_title %}</a>{% endif %}
@@ -68,7 +68,7 @@
   {% else %}
 
     {{ post.excerpt }}
-    <p class="read-more"><a class="heading" href="{{ post.url | relative_url }}" data-flip="title">Continue reading </a></p>
+      
   {% endunless %}
 
 </article>
