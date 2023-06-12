@@ -2,7 +2,7 @@
 layout: list
 title: etc
 slug: etc
-menu: false
+menu: true
 submenu: true
 order: 9
 description: >
