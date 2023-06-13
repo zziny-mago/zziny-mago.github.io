@@ -8,15 +8,8 @@ comments: true
 ---
 
 
+### Gradient Tape in Tensorflow
 
-
-
-
-
-
-
-
----
 ~~~
     t1=tf.Variable([1,2,3], dtype=tf.float32)
     t2=tf.Variable([10,20,30],dtype=tf.float32)
